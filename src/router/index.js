@@ -7,7 +7,7 @@ export default function RouterGate() {
     <React.Fragment>
       <BrowserRouter>
         <Routes>
-          <Route index element={<HomePage />} />
+          <Route path='/grizzly-app' element={<HomePage />} />
         </Routes>
       </BrowserRouter>
     </React.Fragment>
