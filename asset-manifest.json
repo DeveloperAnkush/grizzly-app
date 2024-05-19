@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/grizzly-app/static/css/main.73166e87.css",
-    "main.js": "/grizzly-app/static/js/main.2b86e95b.js",
+    "main.js": "/grizzly-app/static/js/main.d35752be.js",
     "static/media/map-image.png": "/grizzly-app/static/media/map-image.0a9c8e99cc614e99af37.png",
     "static/media/group-members.png": "/grizzly-app/static/media/group-members.ae5f7b10bf9a0181202c.png",
     "static/media/mobilepic.png": "/grizzly-app/static/media/mobilepic.077fd31fd8539dff2361.png",
@@ -19,10 +19,10 @@
     "static/media/slick.woff": "/grizzly-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/grizzly-app/index.html",
     "main.73166e87.css.map": "/grizzly-app/static/css/main.73166e87.css.map",
-    "main.2b86e95b.js.map": "/grizzly-app/static/js/main.2b86e95b.js.map"
+    "main.d35752be.js.map": "/grizzly-app/static/js/main.d35752be.js.map"
   },
   "entrypoints": [
     "static/css/main.73166e87.css",
-    "static/js/main.2b86e95b.js"
+    "static/js/main.d35752be.js"
   ]
 }
