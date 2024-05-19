@@ -36,7 +36,7 @@ export default function SectionSeven() {
               </ImageBox>
             </StyledGrid>
           </Grid>
-          <Grid container spacing={3} p={3}>
+          <Grid container spacing={3}>
             <Grid item md={6} xs={12}>
               <AdditionalButton data-aos="fade-up" data-aos-duration="1000">
                 <Typography className='btntext'>Looking for additional help?</Typography>
@@ -93,6 +93,7 @@ const CashButton = styled(Box)`
     font-weight: 950;
     line-height: 40px;
     margin-bottom: 5px;
+    text-align: right;
     @media (max-width: 600px){
       font-size: 20px;
       line-height: 32px;
@@ -104,6 +105,8 @@ const CashButton = styled(Box)`
     font-size:16px;
     line-height: 24px;
     color: #fff;
+    display: flex;
+    justify-content: flex-end;
     @media (max-width: 600px){
       font-size: 12px;
     }
