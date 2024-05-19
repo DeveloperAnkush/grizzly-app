@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/grizzly-app/static/css/main.73166e87.css",
+    "main.js": "/grizzly-app/static/js/main.2b86e95b.js",
+    "static/media/map-image.png": "/grizzly-app/static/media/map-image.0a9c8e99cc614e99af37.png",
+    "static/media/group-members.png": "/grizzly-app/static/media/group-members.ae5f7b10bf9a0181202c.png",
+    "static/media/mobilepic.png": "/grizzly-app/static/media/mobilepic.077fd31fd8539dff2361.png",
+    "static/media/jobSeeker.png": "/grizzly-app/static/media/jobSeeker.33a11d3f660fa87f26e0.png",
+    "static/media/employeesImage.png": "/grizzly-app/static/media/employeesImage.cbf6f1fcee48c49f476b.png",
+    "static/media/image3.png": "/grizzly-app/static/media/image3.7dc5083767a7e03b90f0.png",
+    "static/media/image1.png": "/grizzly-app/static/media/image1.d0b8d7b7d652b6fba3fa.png",
+    "static/media/image2.png": "/grizzly-app/static/media/image2.8231db10d31eeca3a72b.png",
+    "static/media/image4.png": "/grizzly-app/static/media/image4.578a5fd45faa2974ac8e.png",
+    "static/media/image5.png": "/grizzly-app/static/media/image5.834ea8ddbc0b49469f30.png",
+    "static/media/image6.png": "/grizzly-app/static/media/image6.e55bc1743fa71cebad5a.png",
+    "static/media/slick.svg": "/grizzly-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/grizzly-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/grizzly-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/grizzly-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/grizzly-app/index.html",
+    "main.73166e87.css.map": "/grizzly-app/static/css/main.73166e87.css.map",
+    "main.2b86e95b.js.map": "/grizzly-app/static/js/main.2b86e95b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73166e87.css",
+    "static/js/main.2b86e95b.js"
+  ]
+}
